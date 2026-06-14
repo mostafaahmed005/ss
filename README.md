@@ -1,3 +1,2 @@
 # sss
-mmonojmino n
-noom
+123456789
